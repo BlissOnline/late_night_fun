@@ -1,0 +1,22 @@
+
+
+.topTitle {
+    /* font-family: "Anton"; */
+    /* color: red; */
+    font-family: "Anton";
+    /* font-weight: 700; */
+    /* font-style: normal; */
+}
+
+.focusText {
+    font-family: "Palanquin Dark";
+    color: #F6F8EB;
+    border: solid black 1px;
+    /* text-shadow: black 2px 2px; */
+    -webkit-text-stroke: 1px black
+
+}
+
+.buttonText {
+    font-family: "Kanit";
+}
